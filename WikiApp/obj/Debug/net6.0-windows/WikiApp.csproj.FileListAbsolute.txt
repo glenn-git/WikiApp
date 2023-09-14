@@ -1,0 +1,17 @@
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.FormWiki.resources
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.Properties.Resources.resources
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.GenerateResource.cache
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.AssemblyInfoInputs.cache
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.AssemblyInfo.cs
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.exe
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.deps.json
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.runtimeconfig.json
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.dll
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.pdb
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.dll
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\refint\WikiApp.dll
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.pdb
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.genruntimeconfig.cache
+C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\ref\WikiApp.dll

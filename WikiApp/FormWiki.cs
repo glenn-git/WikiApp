@@ -13,6 +13,7 @@ using System.Xml.Linq;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 //Glenn M122777
 //18/8/2023
+//Assessment Task One
 namespace WikiApp
 {
     public partial class FormWiki : Form
@@ -365,6 +366,7 @@ namespace WikiApp
                 int max = ptr - 1;
                 //replace method to ignore dash e.g. Self-Balance Tree
                 string target = ReplaceString(textBoxSearch.Text);
+                stopwatch.Reset();
                 stopwatch.Start();
                 while (min <= max)
                 {
@@ -572,6 +574,7 @@ namespace WikiApp
             {
                 // Initialize array before loading data
                 InitializeArray(arrayRecord);
+                stopwatch.Reset();
                 stopwatch.Start();
                 // Create a FileStream and BinaryWriter to read from the selected file
                 using (var fileStream = File.Open(fileName, FileMode.Open))

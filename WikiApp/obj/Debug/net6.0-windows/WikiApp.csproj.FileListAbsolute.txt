@@ -15,3 +15,39 @@ C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\refint\Wiki
 C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.pdb
 C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.genruntimeconfig.cache
 C:\Users\Glenn\source\repos\WikiApp\WikiApp\obj\Debug\net6.0-windows\ref\WikiApp.dll
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.exe
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.deps.json
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.runtimeconfig.json
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.dll
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.pdb
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.AssemblyReference.cache
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.FormWiki.resources
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.Properties.Resources.resources
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.GenerateResource.cache
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.AssemblyInfoInputs.cache
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.AssemblyInfo.cs
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.CoreCompileInputs.cache
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.dll
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\refint\WikiApp.dll
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.pdb
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.genruntimeconfig.cache
+C:\Users\m122777\Desktop\New folder\22\WikiApp\WikiApp\obj\Debug\net6.0-windows\ref\WikiApp.dll
+C:\Users\M122777\Desktop\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.exe
+C:\Users\M122777\Desktop\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.deps.json
+C:\Users\M122777\Desktop\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.runtimeconfig.json
+C:\Users\M122777\Desktop\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.dll
+C:\Users\M122777\Desktop\WikiApp\WikiApp\bin\Debug\net6.0-windows\WikiApp.pdb
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.AssemblyReference.cache
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.FormWiki.resources
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.Properties.Resources.resources
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.GenerateResource.cache
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.AssemblyInfoInputs.cache
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.AssemblyInfo.cs
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.csproj.CoreCompileInputs.cache
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.dll
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\refint\WikiApp.dll
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.pdb
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\WikiApp.genruntimeconfig.cache
+C:\Users\M122777\Desktop\WikiApp\WikiApp\obj\Debug\net6.0-windows\ref\WikiApp.dll
